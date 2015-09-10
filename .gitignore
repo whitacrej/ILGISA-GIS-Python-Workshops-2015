@@ -1,3 +1,9 @@
+# Custom
+/.ipynb_checkpoints
+/Data
+/Zip
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
